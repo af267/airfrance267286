@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @airfrance267286
+- 👋 Hi, I’m AF267
 - 👀 I’m interested in aerospace and technology
 
 <!---
